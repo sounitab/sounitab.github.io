@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sounitab.github.io/sitemap.html.gz
+Sitemap: https://sounitab.github.io/app/sitemap.html.gz
+Sitemap: https://sounitab.github.io/assets/sitemap.html.gz
+Sitemap: https://sounitab.github.io/css/sitemap.html.gz
+Sitemap: https://sounitab.github.io/includes/sitemap.html.gz
+Sitemap: https://sounitab.github.io/item/sitemap.html.gz
+Sitemap: https://sounitab.github.io/src/sitemap.html.gz
